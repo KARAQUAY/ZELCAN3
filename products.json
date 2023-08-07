@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Örnek Halı 1",
+        "description": "Bu güzel halı evinizin dekorasyonunu tamamlayacak.",
+        "price": 199.99,
+        "image": "urun1.jpg"
+    },
+    {
+        "name": "Örnek Halı 2",
+        "description": "Modern ve şık tasarımıyla dikkat çekici bir halı.",
+        "price": 249.99,
+        "image": "urun2.jpg"
+    }
+]
